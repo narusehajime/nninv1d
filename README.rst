@@ -9,8 +9,19 @@ Installation
 python setup.py install
 
 ---------------
-How to use 
+How to use
 
+Usage of Matlab codes for simulation of turbidity currents
+--------------
+exec_TurbSurge_mltest_new(folder_to_store_results, interval_to_output, time_to_end_simulation, model_input_parameters)
+
+Usage of Matlab codes for producing training data sets
+-------------
+exec_TurbSurge_mlsamples(folder_to_output_data, dummy_number, time_to_terminate_a_single_run, number_of_training_data)
+
+
+Usage of NN codes
+-----------
 import nninv1d
 import os
 
