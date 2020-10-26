@@ -1,0 +1,174 @@
+%#BIBTEX latexmk -e "$latex=q/uplatex %O -kanji=utf8 -no-guess-input-enc -synctex=1 %S/" -e "$bibtex=q/upbibtex %O %B/" -e "$biber=q/biber %O --bblencoding=utf8 -u -U --output_safechars %B/" -e "$makeindex=q/upmendex %O -o %D %S/" -e "$dvipdf=q/dvipdfmx %O -o %D %S/" -norc -gg -pdfdvi DeepLearningTurbidite
+% \documentclass[linenumbers,draft]{agujournal2019}
+\documentclass[draft]{agujournal2019}
+\usepackage{url}
+\usepackage{lineno}
+% \linenumbers
+
+\journalname{JGR: Earth Surface}
+% \journalname{Geophysical Research Letters}
+
+\begin{document}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  TITLE
+%
+%% ------------------------------------------------------------------------ %%
+
+
+\title{Inverse modeling of turbidity currents using artificial neural network: verification for field application}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  AUTHORS AND AFFILIATIONS
+%
+%% ------------------------------------------------------------------------ %%
+
+\authors{Hajime Naruse\affil{1}}
+
+\affiliation{1}{Division of Earth and Planetary Sciences, Graduate School of Science, Kyoto University, Kitashirakawa Oiwakecho, Kyoto, Japan.}
+
+\correspondingauthor{Hajime Naruse}{naruse@kueps.kyoto-u.ac.jp}
+
+\input{keypoints}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  ABSTRACT
+%
+%% ------------------------------------------------------------------------ %%
+
+\input{abstract}
+
+%% ------------------------------------------------------------------------ %%
+%
+%  TEXT
+%
+%% ------------------------------------------------------------------------ %%
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION
+%----------------------------------------------------------------------------------------
+\section{Introduction}
+
+\input{introduction}
+
+%----------------------------------------------------------------------------------------
+%	FORWARD MODEL
+%----------------------------------------------------------------------------------------
+
+\input{forward_model}
+
+%----------------------------------------------------------------------------------------
+%	INVERSE MODELING
+%----------------------------------------------------------------------------------------
+
+\input{inverse_model}
+
+%----------------------------------------------------------------------------------------
+%	RESULTS
+%----------------------------------------------------------------------------------------
+
+\input{results}
+
+%----------------------------------------------------------------------------------------
+%	DISCUSSION
+%----------------------------------------------------------------------------------------
+
+\input{discussion}
+
+%----------------------------------------------------------------------------------------
+%	CONCLUSIONS
+%----------------------------------------------------------------------------------------
+
+\input{conclusions}
+
+%----------------
+% EXAMPLE FIGURE
+%
+% \begin{figure}
+% \end{figure}
+
+%\begin{figure}[ht!]
+% \centering
+% when using pdflatex, use pdf file:
+% \includegraphics[width=20pc]{figsamp.pdf}
+%
+% when using dvips, use .eps file:
+% \includegraphics[width=20pc]{figsamp.eps}
+%
+% If you don't specify the file extension, 
+% \includegraphics will insert the right file:
+%\centerline{\includegraphics[height=1.5in]{figsamp}}
+%\caption{Short caption}
+%\label{figone}
+%\end{figure}
+%
+%\begin{figure}[ht!]
+%\centerline{\includegraphics[angle=45,height=2in]{figsamp}}
+%\caption{The figure caption should begin with an overall descriptive
+%statement of the figure followed by additional text. They should be
+%immediately after each figure.  Figure parts are indicated with
+%lower-case letters ({\bf a, b, c}\ldots).  For initial submission, please place
+%both the figures and captions in the text near where they are cited.}
+%\label{fig:mean_and_slope}
+%\end{figure}
+
+
+%\begin{table}
+%\caption{Start this caption with a short description of your
+%table.
+%Large tables
+%especially presenting rich data should be presented as separate excel
+%or .cvs files, not as part of the main text.}
+%== Table Here ==
+%\end{table}
+%
+%%
+%% ---------------
+%% EXAMPLE TABLE
+%%
+%\begin{table}
+%\caption{Time of the Transition Between Phase 1 and Phase 2$^{a}$}
+%\centering
+%\begin{tabular}{l c}
+%\hline
+% Run  & Time (min)  \\
+%\hline
+%  $l1$  & 260   \\
+%  $l2$  & 300   \\
+%  $l3$  & 340   \\
+%  $h1$  & 270   \\
+%  $h2$  & 250   \\
+%  $h3$  & 380   \\
+%  $r1$  & 370   \\
+%  $r2$  & 390   \\
+%\hline
+%\multicolumn{2}{l}{$^{a}$Table note text here.}
+%\end{tabular}
+%\end{table}
+
+%%% End of body of article
+
+\input{notation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  ACKNOWLEDGMENTS
+
+\input{acknowledgments}
+
+%----------------------------------------------------------------------------------------
+%	REFERENCES
+%----------------------------------------------------------------------------------------
+
+\bibliography{sedimentology}
+
+%-----------------------------------------------
+% FIGURES AND TABLES
+%-----------------------------------------------
+
+\input{figs_tables}
+
+\end{document}

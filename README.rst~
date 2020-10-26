@@ -1,0 +1,19 @@
+nninv
+========================
+
+This is a code for inverse analysis of sedimentary processes by using a deep learning neural network. 
+
+---------------
+Installation
+
+python setup.py install
+
+---------------
+Test codes
+
+python setup.py test
+
+---------------
+How to use 
+
+
