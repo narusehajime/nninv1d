@@ -11,7 +11,7 @@
 %% 2-column papers and preprints
 \RequirePackage[2020/02/02]{latexrelease}
 \documentclass[esurf, manuscript]{copernicus}
-%\documentclass[esurf]{copernicus}
+% \documentclass[esurf]{copernicus}
 
 %% Journal abbreviations (please use the same for preprints and final revised papers)
 
@@ -76,13 +76,16 @@
 
 \begin{document}
 
-\title{Inverse modeling of turbidity currents using artificial neural network: verification for field application}
+\title{Inverse modeling of turbidity currents using an artificial neural network approach: verification for field application}
 
 % \Author[affil]{given_name}{surname}
 
 \Author[1]{Hajime}{Naruse}
+\Author[2]{Kento}{Nakao}
 
-\affil[1]{Graduate School of Science, Kyoto University, Kitashirakawa Oiwakecho, Sakyo-ku, Kyoto, 606-8502 Japan}
+\affil[1]{Graduate School of Science, Kyoto University. Kitashirakawa Oiwakecho, Sakyo-ku, Kyoto, 606-8502 Japan}
+
+\affil[2]{Baseload Power Japan. SHINTORA-DORI CORE 3F, 4-1-1, Shimbashi, Minato-ku, Tokyo, 105-0004 Japan}
 
 %% The [] brackets identify the author with the corresponding affiliation. 1, 2, 3, etc. should be inserted.
 
@@ -97,10 +100,6 @@
 
 \runningauthor{Hajime Naruse}
 
-
-
-
-
 \received{}
 \pubdiscuss{} %% only important for two-stage journals
 \revised{}
@@ -109,23 +108,20 @@
 
 %% These dates will be inserted by Copernicus Publications during the typesetting process.
 
-
 \firstpage{1}
 
 \maketitle
 
 \begin{abstract}
-\input{abstract.tex}
+  \input{abstract.tex}
 \end{abstract}
 
 
-\copyrightstatement{}
+\copyrightstatement{CC BY 4.0}
 
 
 \introduction  %% \introduction[modified heading if necessary]
 \input{introduction.tex}
-
-\input{figs_tables.tex}
 
 \input{forward_model.tex}
 
@@ -145,11 +141,10 @@
 
 % \codeavailability{TEXT} %% use this section when having only software code available
 
-
 % \dataavailability{TEXT} %% use this section when having only data sets available
 
 
-\codedataavailability{All codes and data used in this study is deposited in the respository Zenodo ()} %% use this section when having data sets and software code available
+\codedataavailability{All codes and data used in this study is deposited in the respository Zenodo (https://doi.org/10.5281/zenodo.4135168)} %% use this section when having data sets and software code available
 
 
 % \sampleavailability{TEXT} %% use this section when having geoscientific samples available
@@ -190,7 +185,7 @@
 
 \begin{acknowledgements}
 
-This work was supported by JSPS KAKENHI Grant Numbers 26287127 and 20H01985. This study was also supported by the Earthquake Research Institute The University of Tokyo Joint Usage/Research Program 2018-B01.
+  This work was supported by JSPS KAKENHI Grant Numbers 26287127 and 20H01985. This study was also supported by the Earthquake Research Institute The University of Tokyo Joint Usage/Research Program 2018-B01.
 
 \end{acknowledgements}
 

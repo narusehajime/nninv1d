@@ -1,0 +1,461 @@
+\begin{thebibliography}{78}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{\tt #1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{https://doi.org/\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{https://doi.org/\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{Allen(1982)}]{allen1982sedimentary}
+Allen, J. R.~L.: Sedimentary structures: their character and physical basis,
+  vol.~1, Elsevier Scientific Publishing Company, Amsterdam, 1982.
+
+\bibitem[{Allen(1991)}]{allen1991bouma}
+Allen, J. R.~L.: {The Bouma division A and the possible duration of turbidity
+  currents}, Journal of Sedimentary Research, 61, 291--295,
+  \doi{10.1306/D42676F4-2B26-11D7-8648000102C1865D}, 1991.
+
+\bibitem[{Amy and Talling(2006)}]{Amy2006}
+Amy, L.~A. and Talling, P.~J.: {Anatomy of turbidites and linked debrites based
+  on long distance (120$\times$ 30 km) bed correlation, Marnoso Arenacea
+  Formation, Northern Apennines, Italy}, Sedimentology, 53, 161--212,
+  \doi{10.1111/j.1365-3091.2005.00756.x},
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.2005.00756.x},
+  2006.
+
+\bibitem[{Amy et~al.(2000)Amy, Kneller, and McCaffrey}]{Amy2000}
+Amy, L.~A., Kneller, B., and McCaffrey, W.: {Evaluating the links between
+  turbidite characteristics and gross system architecture: upscaling insights
+  from the turbidite sheet-system of Pe{\"\i}ra Cava, SE France}, in: Deep
+  Water Reservoirs of the World. Gulf Coast Section SEPM Foundation 20th Annual
+  Research Conference. SEPM, Houston, TX (CD-ROM), vol.~1, p.~15, 2000.
+
+\bibitem[{Amy et~al.(2004)Amy, McCaffrey, and Kneller}]{Amy2004}
+Amy, L.~A., McCaffrey, W.~D., and Kneller, B.~C.: The influence of a lateral
+  basin-slope on the depositional patterns of natural and experimental
+  turbidity currents, Geological Society, London, Special Publications, 221,
+  311--330, \doi{10.1144/GSL.SP.2004.221.01.17},
+  \urlprefix\url{https://sp.lyellcollection.org/content/221/1/311}, 2004.
+
+\bibitem[{Azpiroz-Zabala et~al.(2017)Azpiroz-Zabala, Cartigny, Talling,
+  Parsons, Sumner, Clare, Simmons, Cooper, and Pope}]{azpiroz2017newly}
+Azpiroz-Zabala, M., Cartigny, M. J.~B., Talling, P.~J., Parsons, D.~R., Sumner,
+  E.~J., Clare, M.~A., Simmons, S.~M., Cooper, C., and Pope, E.~L.: Newly
+  recognized turbidity current structure can explain prolonged flushing of
+  submarine canyons, Science Advances, 3, e1700\,200,
+  \doi{10.1126/sciadv.1700200}, 2017.
+
+\bibitem[{Baas et~al.(2000)Baas, {van Dam}, and Storms}]{baas2000duration}
+Baas, J.~H., {van Dam}, R.~L., and Storms, J.~E.: {Duration of deposition from
+  decelerating high-density turbidity currents}, Sedimentary Geology, 136,
+  71--88, \doi{10.1016/S0037-0738(00)00088-9}, 2000.
+
+\bibitem[{Bartolini et~al.(1972)Bartolini, Gehin, and Stanley}]{Bartolini1972}
+Bartolini, C., Gehin, C., and Stanley, D.~J.: {Morphology and recent sediments
+  of the Western Alboran Basin in the Mediterranean Sea}, Marine Geology, 13,
+  159 -- 223, \doi{https://doi.org/10.1016/0025-3227(72)90089-8},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/0025322772900898},
+  1972.
+
+\bibitem[{Bishop(2006)}]{Bishop2006}
+Bishop, C.~M.: Pattern recognition and machine learning, springer, 2006.
+
+\bibitem[{Bornhold and Lilkey(1971)}]{BORNHOLD1971}
+Bornhold, B.~D. and Lilkey, O.~H.: {Bioclastic Turbidite Sedimentation in
+  Columbus Basin, Bahamas}, GSA Bulletin, 82, 1341--1354,
+  \doi{10.1130/0016-7606(1971)82[1341:BTSICB]2.0.CO;2},
+  \urlprefix\url{https://doi.org/10.1130/0016-7606(1971)82[1341:BTSICB]2.0.CO;2},
+  1971.
+
+\bibitem[{Bouma(1962)}]{Bouma1962}
+Bouma, A.~H.: Sedimentology of some flysch deposits: a graphic approach to
+  facies interpretation, vol. 168, Elsevier Scientific Publishing Company,
+  1962.
+
+\bibitem[{Bowen et~al.(1984)Bowen, Normark, and Piper}]{Bowen1984}
+Bowen, A., Normark, W., and Piper, D.: Modelling of turbidity currents on {Navy
+  submarine fan, California} continental borderland, Sedimentology, 31,
+  169--185, \doi{10.1111/j.1365-3091.1984.tb01957.x},
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.1984.tb01957.x},
+  1984.
+
+\bibitem[{Buscail and Germain(1997)}]{Buscail1997}
+Buscail, R. and Germain, C.: Present-day organic matter sedimentation on the
+  {NW Mediterranean} margin: Importance of off-shelf export, Limnology and
+  Oceanography, 42, 217--229, \doi{10.4319/lo.1997.42.2.0217},
+  \urlprefix\url{https://aslopubs.onlinelibrary.wiley.com/doi/abs/10.4319/lo.1997.42.2.0217},
+  1997.
+
+\bibitem[{Clare et~al.(2014)Clare, Talling, Challenor, Malgesini, and
+  Hunt}]{Clare2014}
+Clare, M.~A., Talling, P.~J., Challenor, P., Malgesini, G., and Hunt, J.:
+  Distal turbidites reveal a common distribution for large (> 0.1 km3)
+  submarine landslide recurrence, Geology, 42, 263--266, 2014.
+
+\bibitem[{Crank(1984)}]{Crank1984}
+Crank, J.: Free and moving boundary problems, {Clarendon press Oxford}, 1984.
+
+\bibitem[{Dietrich(1982)}]{dietrich1982settling}
+Dietrich, W.~E.: Settling velocity of natural particles, Water Resources
+  Research, 18, 1615--1626, \doi{10.1029/WR018i006p01615},
+  \urlprefix\url{http://dx.doi.org/10.1029/WR018i006p01615}, 1982.
+
+\bibitem[{Dorrell et~al.(2018)Dorrell, Amy, Peakall, and
+  McCaffrey}]{Dorrell2018}
+Dorrell, R., Amy, L., Peakall, J., and McCaffrey, W.: Particle size
+  distribution controls the threshold between net sediment erosion and
+  deposition in suspended load dominated flows, Geophysical Research Letters,
+  45, 1443--1452, 2018.
+
+\bibitem[{Duchi et~al.(2011)Duchi, Hazan, and Singer}]{Duchi2011}
+Duchi, J., Hazan, E., and Singer, Y.: Adaptive subgradient methods for online
+  learning and stochastic optimization., Journal of machine learning research,
+  12, 2121--2159, 2011.
+
+\bibitem[{Falcini et~al.(2009)Falcini, Marini, Milli, and
+  Moscatelli}]{Falcini2009}
+Falcini, F., Marini, M., Milli, S., and Moscatelli, M.: An inverse problem to
+  infer paleoflow conditions from turbidites, Journal of Geophysical Research:
+  Oceans, 114, \doi{10.1029/2009JC005294}, 2009.
+
+\bibitem[{Garcia and Parker(1991)}]{garcia1991entrainment}
+Garcia, M. and Parker, G.: Entrainment of bed sediment into suspension, Journal
+  of Hydraulic Engineering, 117, 414--435,
+  \doi{10.1061/(ASCE)0733-9429(1991)117:4(414)}, 1991.
+
+\bibitem[{Garcia(1990)}]{Garcia1990}
+Garcia, M.~H.: Depositing and eroding sediment-driven flows: turbidity
+  currents, Tech. Rep. 306, St. Anthony Falls Hydraulic Laboratory,
+  \urlprefix\url{http://hdl.handle.net/11299/108513}, 1990.
+
+\bibitem[{Glorot and Bengio(2010)}]{Glorot2010}
+Glorot, X. and Bengio, Y.: Understanding the difficulty of training deep
+  feedforward neural networks, in: Proceedings of the thirteenth international
+  conference on artificial intelligence and statistics, pp. 249--256, 2010.
+
+\bibitem[{Glorot et~al.(2011)Glorot, Bordes, and Bengio}]{Glorot2011}
+Glorot, X., Bordes, A., and Bengio, Y.: Deep sparse rectifier neural networks,
+  in: Proceedings of the fourteenth international conference on artificial
+  intelligence and statistics, vol.~15, pp. 315--323, 2011.
+
+\bibitem[{Goldfinger et~al.(2003)Goldfinger, Nelson, and
+  Johnson}]{Goldfinger2003a}
+Goldfinger, C., Nelson, C.~H., and Johnson, J.~E.: {Holocene earthquake records
+  from the Cascadia subduction zone and northern San Andreas fault based on
+  precise dating of offshore turbidites}, Annual Review of Earth and Planetary
+  Sciences, 31, 555--577, \doi{10.1146/annurev.earth.31.100901.141246}, 2003.
+
+\bibitem[{Harms and Fahnestock(1960)}]{Harms1960}
+Harms, J. and Fahnestock, R.: Stratification, bed forms, and flow phenomena
+  (with an example from the {Rio Grande}), in: Primary Sedimentary Structures
+  (SP12), edited by Middleton, G.~V., pp. 84--115, Special Publications of
+  SEPM, Tulsa, 1960.
+
+\bibitem[{Hastie et~al.(2009)Hastie, Tibshirani, and Friedman}]{Hastie2009}
+Hastie, T., Tibshirani, R., and Friedman, J.: The elements of statistical
+  learning, 2nd edition, Springer, 2009.
+
+\bibitem[{Hecht-Nielsen(1987)}]{HechtNielsen1987}
+Hecht-Nielsen, R.: Kolmogorov’s mapping neural network existence theorem, in:
+  Proceedings of the international conference on Neural Networks, vol.~3, pp.
+  11--14, IEEE Press New York, 1987.
+
+\bibitem[{Hesse(1974)}]{HESSE1974}
+Hesse, R.: {Long-Distance Continuity of Turbidites: Possible Evidence for an
+  Early Cretaceous Trench–Abyssal Plain in the East Alps}, GSA Bulletin, 85,
+  859--870, \doi{10.1130/0016-7606(1974)85<859:LCOTPE>2.0.CO;2},
+  \urlprefix\url{https://doi.org/10.1130/0016-7606(1974)85<859:LCOTPE>2.0.CO;2},
+  1974.
+
+\bibitem[{Heussner et~al.(1999)Heussner, {Durrieu de Madron}, Radakovitch,
+  Beaufort, {E. Biscaye}, Carbonne, {Nicole Delsaut}, Etcheber, and
+  Monaco}]{Heussner1999}
+Heussner, S., {Durrieu de Madron}, X., Radakovitch, O., Beaufort, L., {E.
+  Biscaye}, P., Carbonne, J., {Nicole Delsaut}, Etcheber, H., and Monaco, A.:
+  Spatial and temporal patterns of downward particle fluxes on the continental
+  slope of the {Bay of Biscay (northeastern Atlantic)}, Deep Sea Research Part
+  {II}: Topical Studies in Oceanography, 46, 2101--2146,
+  \doi{https://doi.org/10.1016/S0967-0645(99)00057-0},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0967064599000570},
+  1999.
+
+\bibitem[{Hirano(1971)}]{Hirano1971}
+Hirano, M.: River-bed degradation with armoring, Proceedings of the Japan
+  Society of Civil Engineers, 1971, 55--65, 1971.
+
+\bibitem[{Hirayama and Nakajima(1977)}]{Hirayama1977}
+Hirayama, J. and Nakajima, T.: {Analytical study of turbidites, Otadai
+  Formation, Boso Peninsula, Japan}, Sedimentology, 24, 747--779,
+  \doi{10.1111/j.1365-3091.1977.tb01914.x},
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.1977.tb01914.x},
+  1977.
+
+\bibitem[{Hiscott(1994)}]{Hiscott1994}
+Hiscott, R.~N.: Loss of capacity, not competence, as the fundamental process
+  governing deposition from turbidity currents, Journal of Sedimentary
+  Research, 64, 209--214, 1994.
+
+\bibitem[{{Hughes Clarke}(2016)}]{Clarke2016}
+{Hughes Clarke}, J.~E.: First wide-angle view of channelized turbidity currents
+  links migrating cyclic steps to flow characteristics, Nature communications,
+  7, 1--13, \doi{10.1038/ncomms11896}, 2016.
+
+\bibitem[{Ishihara et~al.(1997)Ishihara, Miyata, and Tokuhashi}]{Ishihara1997}
+Ishihara, Y., Miyata, Y., and Tokuhashi, S.: Time-series analysis of turbidite
+  sequence in the upper part of the {Awa Group in the Boso Peninsula, central
+  Japan}, Journal of Geological Society of Japan, 103, 579--589, 1997.
+
+\bibitem[{Jaffe and Gelfenbaum(2007)}]{Jaffe2007}
+Jaffe, B.~E. and Gelfenbaum, G.: A simple model for calculating tsunami flow
+  speed from tsunami deposits, Sedimentary Geology, 200, 347--361, 2007.
+
+\bibitem[{Kendrick(1998)}]{Kendrick1998}
+Kendrick, J.: {Turbidite reservoir architecture in the Gulf of Mexico-insights
+  from field development}, in: EAGE/AAPG 3rd Research Symposium-Developing and
+  Managing Turbidite Reservoirs, pp. cp--100, European Association of
+  Geoscientists \& Engineers, 1998.
+
+\bibitem[{Komar(1985)}]{Komar1985}
+Komar, P.~D.: The hydraulic interpretation of turbidites from their grain sizes
+  and sedimentary structures, Sedimentology, 32, 395--407, 1985.
+
+\bibitem[{Kostic and Parker(2006)}]{kostic2006response}
+Kostic, S. and Parker, G.: {The response of turbidity currents to a canyon--fun
+  transition: Internal hydraulic jumps and depositional signatures}, Journal of
+  Hydraulic Research, 44, 631--653, \doi{10.1080/00221686.2006.9521713}, 2006.
+
+\bibitem[{Krizhevsky et~al.(2012)Krizhevsky, Sutskever, and
+  Hinton}]{Krizhevsky2012}
+Krizhevsky, A., Sutskever, I., and Hinton, G.~E.: Imagenet classification with
+  deep convolutional neural networks, in: Advances in neural information
+  processing systems, pp. 1097--1105, 2012.
+
+\bibitem[{Kubo(1995)}]{Kubo1995}
+Kubo, Y.: How to estimate the paleocurrent velocities from turbidites: some
+  examples of the {Plio-Pleistocene Kakegawa Gorup}, Journal of the Geological
+  Society of Japan, 101, 925--932, \doi{10.5575/geosoc.101.925}, 1995.
+
+\bibitem[{Laloy et~al.(2018)Laloy, H{\'e}rault, Jacques, and Linde}]{Laloy2018}
+Laloy, E., H{\'e}rault, R., Jacques, D., and Linde, N.: Training-image based
+  geostatistical inversion using a spatial generative adversarial neural
+  network, Water Resources Research, 54, 381--406, 2018.
+
+\bibitem[{LeCun et~al.(2015)LeCun, Bengio, and Hinton}]{LeCun2015}
+LeCun, Y., Bengio, Y., and Hinton, G.: Deep learning, Nature, 521, 436--444,
+  \urlprefix\url{https://doi.org/10.1038/nature14539}, 2015.
+
+\bibitem[{Lesshafft et~al.(2011)Lesshafft, Meiburg, Kneller, and
+  Marsden}]{lesshafft2011towards}
+Lesshafft, L., Meiburg, E., Kneller, B., and Marsden, A.: {Towards inverse
+  modeling of turbidity currents: The inverse lock-exchange problem}, Computers
+  {\&} Geosciences, 37, 521--529, \doi{10.1016/j.cageo.2010.09.015}, 2011.
+
+\bibitem[{Luchi et~al.(2018)Luchi, Balachandar, Seminara, and
+  Parker}]{Luchi2018}
+Luchi, R., Balachandar, S., Seminara, G., and Parker, G.: Turbidity currents
+  with equilibrium basal driving layers: A mechanism for long runout,
+  Geophysical Research Letters, 45, 1518--1526, 2018.
+
+\bibitem[{Mitra et~al.(2020)Mitra, Naruse, and Abe}]{Mitra2020a}
+Mitra, R., Naruse, H., and Abe, T.: Estimation of Tsunami Characteristics from
+  Deposits: Inverse Modeling using a Deep-Learning Neural Network, Journal of
+  Geophysical Research: Earth Surface, 125, e2020JF005\,583,
+  \doi{10.1029/2020JF005583},
+  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020JF005583},
+  2020.
+
+\bibitem[{Nair and Hinton(2010)}]{Nair2010}
+Nair, V. and Hinton, G.~E.: Rectified Linear Units Improve Restricted
+  {Boltzmann} Machines, in: ICML, pp. 807--814,
+  \urlprefix\url{https://icml.cc/Conferences/2010/papers/432.pdf}, 2010.
+
+\bibitem[{Nakao and Naruse(2017)}]{Nakao2017}
+Nakao, K. and Naruse, H.: Inverse analysis to reconstruct hydraulic conditions
+  of non-steady turbidity currents based on multiple grain-size classes,
+  Preprint, \doi{10.31223/osf.io/nd3ka},
+  \urlprefix\url{https://eartharxiv.org/repository/view/1512/}, 2017.
+
+\bibitem[{Naruse and Abe(2017)}]{Naruse2017}
+Naruse, H. and Abe, T.: Inverse Tsunami Flow Modeling Including Nonequilibrium
+  Sediment Transport, With Application to Deposits From the 2011 {Tohoku-Oki
+  Tsunami}, Journal of Geophysical Research: Earth Surface, 122, 2159--2182,
+  \doi{10.1002/2017JF004226},
+  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JF004226},
+  2017.
+
+\bibitem[{Naruse et~al.(2007)Naruse, Sequeiros, Garcia, Parker, Endo, Kataoka,
+  Yokokawa, Muto, Dohmen-Janssen, and Hulscher}]{Naruse2007}
+Naruse, H., Sequeiros, O., Garcia, M., Parker, G., Endo, N., Kataoka, K.,
+  Yokokawa, M., Muto, T., Dohmen-Janssen, C., and Hulscher, S.:
+  Self-accelerating turbidity currents at laboratory scale, River, Coastal and
+  Estuarine Morphodynamics: London, Taylor \& Francis, pp. 473--476, 2007.
+
+\bibitem[{Nesterov(1983)}]{NESTEROV1983}
+Nesterov, Y.~E.: A method for solving the convex programming problem with
+  convergence rate O($1/k^2$), Doklady Akademii nauk SSSR, 269, 543--547,
+  \urlprefix\url{https://ci.nii.ac.jp/naid/10029946121/}, 1983.
+
+\bibitem[{Ohata et~al.(2017)Ohata, Naruse, Yokokawa, and Viparelli}]{Ohata2017}
+Ohata, K., Naruse, H., Yokokawa, M., and Viparelli, E.: New bedform phase
+  diagrams and discriminant functions for formative conditions of bedforms in
+  open-channel flows, Journal of Geophysical Research: Earth Surface, 122,
+  2139--2158, 2017.
+
+\bibitem[{Pantopoulos et~al.(2013)Pantopoulos, Vakalas, Maravelis, and
+  Zelilidis}]{Pantopoulos2013}
+Pantopoulos, G., Vakalas, I., Maravelis, A., and Zelilidis, A.: {Statistical
+  analysis of turbidite bed thickness patterns from the Alpine fold and thrust
+  belt of western and southeastern Greece}, Sedimentary Geology, 294, 37--57,
+  \doi{https://doi.org/10.1016/j.sedgeo.2013.05.007},
+  \urlprefix\url{http://www.sciencedirect.com/science/article/pii/S0037073813000985},
+  2013.
+
+\bibitem[{Parker et~al.(1986)Parker, Fukushima, and Pantin}]{parker1986self}
+Parker, G., Fukushima, Y., and Pantin, H.~M.: {Self-accelerating turbidity
+  currents}, Journal of Fluid Mechanics, 171, 145--181,
+  \doi{10.1017/S0022112086001404}, 1986.
+
+\bibitem[{Parker et~al.(1987)Parker, Garcia, Fukushima, and
+  Yu}]{parker1987experiments}
+Parker, G., Garcia, M., Fukushima, Y., and Yu, W.: {Experiments on turbidity
+  currents over an erodible bed}, Journal of Hydraulic Research, 25, 123--147,
+  \doi{10.1080/00221688709499292}, 1987.
+
+\bibitem[{Parkinson et~al.(2017)Parkinson, Funke, Hill, Piggott, and
+  Allison}]{Parkinson2017}
+Parkinson, S.~D., Funke, S.~W., Hill, J., Piggott, M.~D., and Allison, P.~A.:
+  Application of the adjoint approach to optimise the initial conditions of a
+  turbidity current with the {AdjointTurbidity 1.0 model}, Geoscientific Model
+  Development, 10, 1051--1068, \doi{10.5194/gmd-10-1051-2017},
+  \urlprefix\url{https://gmd.copernicus.org/articles/10/1051/2017/}, 2017.
+
+\bibitem[{Paull et~al.(2018)Paull, Talling, Maier, Parsons, Xu, Caress,
+  Gwiazda, Lundsten, Anderson, Barry et~al.}]{Paull2018}
+Paull, C.~K., Talling, P.~J., Maier, K.~L., Parsons, D., Xu, J., Caress, D.~W.,
+  Gwiazda, R., Lundsten, E.~M., Anderson, K., Barry, J.~P., et~al.: Powerful
+  turbidity currents driven by dense basal layers, Nature communications, 9,
+  1--9, 2018.
+
+\bibitem[{Pilkey et~al.(1980)Pilkey, Locker, and Cleary}]{Pilkey1980}
+Pilkey, O.~H., Locker, S.~D., and Cleary, W.~J.: {Comparison of Sand-Layer
+  Geometry on Flat Floors of 10 Modern Depositional Basins1}, AAPG Bulletin,
+  64, 841--856, \doi{10.1306/2F9193C3-16CE-11D7-8645000102C1865D},
+  \urlprefix\url{https://doi.org/10.1306/2F9193C3-16CE-11D7-8645000102C1865D},
+  1980.
+
+\bibitem[{Raschka and Mirjalili(2019)}]{Raschka2019}
+Raschka, S. and Mirjalili, V.: {Python machine learning: Machine learning and
+  deep learning with Python, scikit-learn, and TensorFlow 2}, Packt Publishing
+  Ltd, 2019.
+
+\bibitem[{Rossano et~al.(1996)Rossano, Mastrolorenzo, De~Natale, and
+  Pingue}]{Rossano1996}
+Rossano, S., Mastrolorenzo, G., De~Natale, G., and Pingue, F.: Computer
+  simulation of pyroclastic flow movement: An inverse approach, Geophysical
+  Research Letters, 23, 3779--3782, \doi{10.1029/96GL03570}, 1996.
+
+\bibitem[{Rumelhart et~al.(1986)Rumelhart, Hinton, and
+  Williams}]{Rumelhart1986}
+Rumelhart, D.~E., Hinton, G.~E., and Williams, R.~J.: Learning representations
+  by back-propagating errors, Nature, 323, 533--536,
+  \urlprefix\url{https://doi.org/10.1038/323533a0}, 1986.
+
+\bibitem[{Scheidegger and Potter(1965)}]{SCHEIDEGGER1965}
+Scheidegger, A.~E. and Potter, P.~E.: TEXTURAL STUDIES OF GRADED BEDDING.
+  {O}BSERVATION AND THEORY, Sedimentology, 5, 289--304,
+  \doi{10.1111/j.1365-3091.1965.tb01563.x},
+  \urlprefix\url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-3091.1965.tb01563.x},
+  1965.
+
+\bibitem[{Sequeiros et~al.(2009)Sequeiros, Naruse, Endo, Garcia, and
+  Parker}]{Sequeiros2009}
+Sequeiros, O.~E., Naruse, H., Endo, N., Garcia, M.~H., and Parker, G.:
+  Experimental study on self-accelerating turbidity currents, Journal of
+  Geophysical Research: Oceans, 114, C05\,025, \doi{10.1029/2008JC005149},
+  2009.
+
+\bibitem[{Shalev-Shwartz and Ben-David(2014)}]{ShalevShwartz2014}
+Shalev-Shwartz, S. and Ben-David, S.: Understanding machine learning: From
+  theory to algorithms, Cambridge university press, 2014.
+
+\bibitem[{Specht(1991)}]{Specht1991}
+Specht, D.~F.: A general regression neural network, IEEE transactions on neural
+  networks, 2, 568--576, 1991.
+
+\bibitem[{Srivastava et~al.(2014)Srivastava, Hinton, Krizhevsky, Sutskever, and
+  Salakhutdinov}]{Srivastava2014}
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., and Salakhutdinov,
+  R.: Dropout: A Simple Way to Prevent Neural Networks from Overfitting,
+  Journal of Machine Learning Research, 15, 1929–--1958, 2014.
+
+\bibitem[{Sun(2018)}]{Sun2018}
+Sun, A.~Y.: Discovering State-Parameter Mappings in Subsurface Models Using
+  Generative Adversarial Networks, Geophysical Research Letters, 45,
+  11\,137--11\,146, \doi{10.1029/2018GL080404},
+  \urlprefix\url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080404},
+  2018.
+
+\bibitem[{Talling(2014)}]{Talling2014}
+Talling, P.~J.: On the triggers, resulting flow types and frequencies of
+  subaqueous sediment density flows in different settings, Marine Geology, 352,
+  155--182, 2014.
+
+\bibitem[{Talling et~al.(2012)Talling, Masson, Sumner, and
+  Malgesini}]{Talling2012}
+Talling, P.~J., Masson, D.~G., Sumner, E.~J., and Malgesini, G.: Subaqueous
+  sediment density flows: Depositional processes and deposit types,
+  Sedimentology, 59, 1937--2003, \doi{10.1111/j.1365-3091.2012.01353.x}, 2012.
+
+\bibitem[{Tieleman and Hinton(2012)}]{Tieleman2012}
+Tieleman, T. and Hinton, G.: Lecture 6.5-rmsprop, coursera: Neural networks for
+  machine learning, Tech. rep., 2012.
+
+\bibitem[{Tokuhashi(1979)}]{Tokuhashi1979}
+Tokuhashi, S.: {Three dimensional analysis of a large sandy-flysch body,
+  Mio-Pliocene Kiyosumi Formation, Boso Peninsula, Japan}, 1979.
+
+\bibitem[{Tokuhashi(1989)}]{Tokuhashi1989}
+Tokuhashi, S.: Two stages of submarine fan sedimentation in an ancient forearc
+  basin, central Japan, Sedimentary facies in the active plate margin, pp.
+  439--468, 1989.
+
+\bibitem[{{van Tassell}(1981)}]{vanTassell1981}
+{van Tassell}, J.: Silver Abyssal Plain Carbonate Turbidite: Flow
+  Characteristics, The Journal of Geology, 89, 317--333, \doi{10.1086/628594},
+  \urlprefix\url{https://doi.org/10.1086/628594}, 1981.
+
+\bibitem[{Vangriesheim et~al.(2009)Vangriesheim, Khripounoff, and
+  Crassous}]{vangriesheim2009turbidity}
+Vangriesheim, A., Khripounoff, A., and Crassous, P.: {Turbidity events observed
+  in situ along the Congo submarine channel}, Deep-Sea Research Part II:
+  Topical Studies in Oceanography, 56, 2208--2222,
+  \doi{10.1016/j.dsr2.2009.04.004}, 2009.
+
+\bibitem[{Walker(1965)}]{Walker1965}
+Walker, R.~G.: The origin and significance of teh internal sedimentary
+  structures of turbidites, {Proceedings of the Yorkshire Geological Society},
+  35, 1--32, \doi{10.1144/pygs.35.1.1},
+  \urlprefix\url{https://pygs.lyellcollection.org/content/35/1/1}, 1965.
+
+\bibitem[{Xu(2010)}]{xu2010normalized}
+Xu, J.~P.: Normalized velocity profiles of field-measured turbidity currents,
+  Geology, 38, 563--566, \doi{10.1130/G30582.1}, 2010.
+
+\bibitem[{Xu et~al.(2004)Xu, Noble, and Rosenfeld}]{xu2004insitu}
+Xu, J.~P., Noble, M.~A., and Rosenfeld, L.~K.: {In-situ measurements of
+  velocity structure within turbidity currents}, Geophysical Research Letters,
+  31, L09\,311, \doi{10.1029/2004GL019718}, 2004.
+
+\bibitem[{Yoneda et~al.(2015)Yoneda, Masui, Konno, Jin, Egawa, Kida, Ito,
+  Nagao, and Tenma}]{Yoneda2015}
+Yoneda, J., Masui, A., Konno, Y., Jin, Y., Egawa, K., Kida, M., Ito, T., Nagao,
+  J., and Tenma, N.: {Mechanical properties of hydrate-bearing turbidite
+  reservoir in the first gas production test site of the Eastern Nankai
+  Trough}, Marine and Petroleum Geology, 66, 471--486, 2015.
+
+\bibitem[{Zeiler(2012)}]{Zeiler2012}
+Zeiler, M.~D.: Adadelta: an adaptive learning rate method, arXiv preprint, p.
+  arXiv:1212.5701, 2012.
+
+\end{thebibliography}
